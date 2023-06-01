@@ -66,6 +66,7 @@ Ce laboratoire, ainsi que certains laboratoires sur lesquels vous travaillerez p
 <br>
 
 ### Test avec Jasmine
+
 Jasmine est un cadre de test automatisé pour JavaScript. Il est conçu pour être utilisé dans la programmation de développement axée sur le comportement (**BDD**), en mettant davantage l'accent sur la valeur commerciale que sur les détails techniques.
 
 Nous avons déjà inclus Jasmine dans le projet que vous venez de cloner, alors voyons comment l'utiliser pour implémenter notre code.
